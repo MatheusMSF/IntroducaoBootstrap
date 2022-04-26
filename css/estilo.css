@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Lora&display=swap');
+
+body{
+    font-family: 'Lora', serif;
+}
+
+div h1{
+    font-family: 'Caveat', cursive;
+    
+}
