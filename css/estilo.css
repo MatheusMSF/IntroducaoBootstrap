@@ -2,9 +2,30 @@
 
 body{
     font-family: 'Lora', serif;
+    
 }
 
 div h1{
     font-family: 'Caveat', cursive;
     
+}
+
+.filme{
+    width: 450px;
+}
+
+.video {
+    margin: 0 auto;
+    width: 50%;
+    aspect-ratio: 16/9;
+}
+
+.separacao{
+    background-color: #8ec6ce;
+    width: 60vw;
+    height: 3.2rem;
+}
+
+.redes{
+    width: 5vw;
 }
